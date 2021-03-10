@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Contadores y acumuladores.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\.idea\.idea.Contadores y acumuladores\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,6 @@
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\bin\Debug\Contadores_y_acumuladores.exe
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\bin\Debug\Contadores_y_acumuladores.pdb
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\obj\Debug\Contadores y acumuladores.csprojAssemblyReference.cache
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\obj\Debug\Contadores y acumuladores.csproj.CoreCompileInputs.cache
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\obj\Debug\Contadores_y_acumuladores.exe
+C:\Users\luisc\OneDrive\Escritorio\progra\opcionales_POO\Contadores y acumuladores\Contadores y acumuladores\obj\Debug\Contadores_y_acumuladores.pdb
